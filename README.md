@@ -24,4 +24,4 @@ This is a basic front-end e-learning website with only two main pages:
 - **CSS3** – Styling and layout
 - **JavaScript** – basic interactivity
 
-![E_learning Screenshot](image.png)
+![E_learning Screenshot](images/image.png)
