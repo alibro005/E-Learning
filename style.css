@@ -538,8 +538,8 @@ form {
 }
 
 /* Input fields */
-input,
-textarea {
+#form input,
+#form textarea {
   width: 100%;
   padding: 12px 14px;
   border: 1px solid #d1d5db;
