@@ -13,8 +13,8 @@ This is a basic front-end e-learning website with only two main pages:
   - Basic form validation using JavaScript
 
 -  **Course Catalog**
-  - Static list of courses with titles, images, and short descriptions
-  - Responsive layout using CSS Flexbox or Grid
+   - Static list of courses with titles, images, and short descriptions
+   - Responsive layout using CSS Flexbox or Grid
 
 ---
 
