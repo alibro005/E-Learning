@@ -12,6 +12,11 @@ body {
   position: relative;
   background-color: rgb(253, 248, 238);
 }
+p {
+  color: rgba(109, 109, 109, 0.93);
+  
+
+}
 
 ul {
   list-style: none;
